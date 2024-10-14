@@ -19,5 +19,11 @@ posd-companion/
 
 ```
 
+Some chapters are very short, and may not include `practice` and `solutions` files.
+
 All of this content is written by me (no gen AI) to understand the principles laid out in this book at a deeper level.
 The provided solutions are written in Javascript. Of course, my "solutions" are only a single approach.
+
+### Source
+
+All quotes are from A Philosohy of Software Design Second Edition (v2.01) published February 2022, and any page numbers reference that print edition.
